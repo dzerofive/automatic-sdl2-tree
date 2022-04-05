@@ -1,1 +1,0 @@
-.\g++.exe ./main.cpp ./Game.cpp -L./lib/ -lGL -ldl -o ./application `sdl2-config --cflags --libs`
