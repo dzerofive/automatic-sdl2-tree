@@ -1,6 +1,0 @@
-/home/dzerofive/Dokumente/CPP/sdl_test_001/build/CMakeFiles/Loliconic.dir
-/home/dzerofive/Dokumente/CPP/sdl_test_001/build/CMakeFiles/edit_cache.dir
-/home/dzerofive/Dokumente/CPP/sdl_test_001/build/CMakeFiles/rebuild_cache.dir
-/home/dzerofive/Dokumente/CPP/sdl_test_001/build/lib/CMakeFiles/core.dir
-/home/dzerofive/Dokumente/CPP/sdl_test_001/build/lib/CMakeFiles/edit_cache.dir
-/home/dzerofive/Dokumente/CPP/sdl_test_001/build/lib/CMakeFiles/rebuild_cache.dir
