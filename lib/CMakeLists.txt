@@ -1,0 +1,1 @@
+add_library(SDL2 libSDL2.a libSDL2main.a)
